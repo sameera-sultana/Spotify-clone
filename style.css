@@ -193,11 +193,7 @@ a{
     align-items: center;
 }
 .album{
-    display: flex;
-    justify-content:center;
-    align-items: center;
     width: 25%;
-    position: ;
 }
  .img{
    position: fixed;
